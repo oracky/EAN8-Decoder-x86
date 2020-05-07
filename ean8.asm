@@ -1,6 +1,6 @@
 ;Author: Michal Oracki
 ;Title: "EAN-8 decoder"
-;Date: 04.05.2019
+;Date: 04.05.2020
 
 section	.text
 global  getRow, getCode
