@@ -1,6 +1,5 @@
 ;Author: Michal Oracki
-;Group: 107
-;Title: "Dekoder EAN-8 (pliki bmp czarno-biale)"
+;Title: "EAN-8 decoder"
 ;Date: 04.05.2019
 
 section	.text
