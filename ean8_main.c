@@ -1,7 +1,6 @@
 // Author: Michal Oracki
-// Group: 107
-// Title: "Dekoder EAN-8 (pliki bmp czarno-biale)"
-// Date: 04.05.2019
+// Title: "EAN-8 decoder"
+// Date: 04.05.2020
 
 #include <stdio.h>
 #include <stdlib.h>
