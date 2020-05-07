@@ -363,12 +363,12 @@ int main(int argc, char* argv[])
     // ----------------------------------------------------
 
     // test files
-    const char* fileName = "8px_12345670.bmp";
+    const char* fileName = "Example.bmp";
     decodeEAN8(fileName);
 
-    decodeEAN8("Error.bmp");
-    decodeEAN8("margines1.bmp");
-    decodeEAN8("5px_99999919.bmp");
+    decodeEAN8("Example1.bmp");
+    decodeEAN8("Example2.bmp");
+    decodeEAN8("Example3.bmp");
 
     return 0;
 }
