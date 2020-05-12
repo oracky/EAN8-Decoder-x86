@@ -76,7 +76,7 @@ getCode_insert_char:
     jmp getCode_exit
 getCode_not_found:
     ;call error // old version of code
-    mov eax, 0     ;setting first sign to null to show error
+    mov eax, 0     ;setting return value to null to show error
 getCode_exit:
     pop esi
     pop ebx
